@@ -26,7 +26,7 @@ I'm a passionate and growth-oriented individual with a Bachelor's degree in Comp
 - In-depth knowledge of manual testing techniques to ensure **software quality**.
 
 ### Automation Testing:
-- Hands-on experience with **Cypress** for UI testing.
+- Hands-on experience with **Cypress** for end-to-end testing.
 - Proficient in **Postman** for API testing.
 - Currently learning **Selenium** for automation.
 
