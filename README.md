@@ -1,4 +1,4 @@
-<img src="https://www.techment.com/wp-content/uploads/2020/10/2020-10-21-4.png" alt="GitHub Logo" style="width:100%; height:400px; object-fit:contain;">
+<img src="https://www.techment.com/wp-content/uploads/2020/10/2020-10-21-4.png" alt="GitHub Logo" style="width:100%; height:350px; object-fit:contain;">
 
 <h1 align="center">Hi 👋, I'm Jagadish Moharana</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
