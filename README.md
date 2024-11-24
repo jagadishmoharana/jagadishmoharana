@@ -9,13 +9,51 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadishmoharana&label=Profile%20views&color=0e75b6&style=flat" alt="jagadishmoharana" /> </p>
 
-- 🌱 I’m currently learning **Software Development Engineer in Test (SDET)**
+# 👋 Hi there! I'm Jagadish Moharana
 
-- 📫 How to reach me **jagadishmoharana02@gmail.com**
+🌱 **Currently Learning**: Software Development Engineer in Test (SDET)
+
+I'm a passionate and growth-oriented individual with a Bachelor's degree in Computer Applications (BCA), and I'm currently sharpening my skills as I pursue an SDET course at **Masai School**. With a solid foundation in software development and quality assurance, I'm dedicated to improving software quality and optimizing testing processes.
+
+---
+
+## 🚀 Skills & Technologies
+
+### Web Development:
+- **HTML** | **CSS** | **JavaScript**
+
+### Manual Testing:
+- In-depth knowledge of manual testing techniques to ensure **software quality**.
+
+### Automation Testing:
+- Hands-on experience with **Cypress** for UI testing.
+- Proficient in **Postman** for API testing.
+- Currently learning **Selenium** for automation.
+
+### Tools & Platforms:
+- Experienced in **Jira** for bug tracking and project management.
+
+### Programming:
+- Strong programming skills in **JavaScript** and **Java** for developing automation scripts.
+
+---
+
+## 🌱 Learning Journey
+I'm continuously expanding my knowledge and hands-on experience in software testing to ensure the delivery of reliable, scalable, and high-quality software products. My goal is to build a career as an **SDET**, leveraging my skills in both **manual** and **automated testing** to contribute to the success of the development teams I work with.
+
+---
+
+## 📫 How to reach me:
+- **Email**: [jagadishmoharana02@gmail.com](mailto:jagadishmoharana02@gmail.com)
+
+---
+
+Feel free to connect if you'd like to collaborate, share insights, or discuss opportunities in **software testing** and **automation**! ✨
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jagadish moharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadish moharana" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jagadishmoharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadish moharana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
