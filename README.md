@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadishmoharana&label=Profile%20views&color=0e75b6&style=flat" alt="jagadishmoharana" /> </p>
 
-# 👋 Hi there! I'm Jagadish Moharana
+
 
 🌱 **Currently Learning**: Software Development Engineer in Test (SDET)
 
