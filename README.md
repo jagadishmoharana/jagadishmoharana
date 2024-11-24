@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jagadish Moharana</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 
-<img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW15am5yYWV2OG5iMWx0N3o0Z2IycGVkNTE2eTNjdXpmeHM5c3hhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW15am5yYWV2OG5iMWx0N3o0Z2IycGVkNTE2eTNjdXpmeHM5c3hhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadishmoharana&label=Profile%20views&color=0e75b6&style=flat" alt="jagadishmoharana" /> </p>
 
