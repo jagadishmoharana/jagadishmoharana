@@ -12,29 +12,29 @@
 
 
 🌱 **Currently Learning**: Software Development Engineer in Test (SDET)
-
+### About me 🧑‍💻
 I'm a passionate and growth-oriented individual with a Bachelor's degree in Computer Applications (BCA), and I'm currently sharpening my skills as I pursue an SDET course at **Masai School**. With a solid foundation in software development and quality assurance, I'm dedicated to improving software quality and optimizing testing processes.
 
 ---
 
 ## 🚀 Skills & Technologies
 
-### Web Development:
-- **HTML** | **CSS** | **JavaScript**
+### 🧪 **Manual Testing**
+- Proficient in **manual testing techniques** to ensure high **software quality**.
+- Experience in creating detailed **test cases**, **test plans**, and **bug reports**.
 
-### Manual Testing:
-- In-depth knowledge of manual testing techniques to ensure **software quality**.
+### 🤖 **Automation Testing**
+- **Cypress**: Extensive hands-on experience in building and executing **end-to-end tests**.
+- **Postman**: Skilled in **API testing** for ensuring backend reliability.
+- **Selenium**: Currently enhancing knowledge for advanced **test automation**.
 
-### Automation Testing:
-- Hands-on experience with **Cypress** for end-to-end testing.
-- Proficient in **Postman** for API testing.
-- Currently learning **Selenium** for automation.
+### 🛠️ **Tools & Platforms**
+- Expertise in **Jira** for efficient **bug tracking**, **issue management**, and **project planning**.
+- Familiar with **Git** for version control and collaboration.
 
-### Tools & Platforms:
-- Experienced in **Jira** for bug tracking and project management.
-
-### Programming:
-- Strong programming skills in **JavaScript** and **Java** for developing automation scripts.
+### 💻 **Programming**
+- Strong coding skills in **JavaScript** and **Java** for developing robust **automation scripts**.
+- Knowledge of **asynchronous programming** and **APIs** for seamless integration.
 
 ---
 
